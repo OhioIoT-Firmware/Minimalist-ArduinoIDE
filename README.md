@@ -2,6 +2,10 @@
 
 The **Minimalist** tier of the OhioIoT device firmware SDK for ESP32.
 
+This code base is designed to help you connect your device to the OhioIoT cloud-based MQTT broker.  
+
+IT IS STILL UNDER DEVELOPMENT - if you have any questions, please visit the website and leave a message.
+
 Connect to WiFi and MQTT, publish, and react to raw messages. The smallest, most readable starting point.
 
 ## Quick start

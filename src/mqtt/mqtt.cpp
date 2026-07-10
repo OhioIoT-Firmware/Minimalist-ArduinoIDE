@@ -3,11 +3,7 @@
 #include "mqtt/mqtt.h"
 #include "Arduino.h"
 
-// #include credentials.h here to allow Arduino IDE users to toggle 
-// ALLOW_INSECURE_MQTT in their credentials.h.  PlatformIO users
-// can still use the build flag.
 
-// #include "credentials.h"
 
 
 
@@ -27,11 +23,6 @@ void Mqtt::setup(const char * mqtt_host, int mqtt_port, const char * username, c
         _wifi_client.setCACert(ca_cert);
     #endif
 
-    // #ifdef ALLOW_INSECURE_MQTT
-    //     _wifi_client.setInsecure();
-    // #else
-    //     _wifi_client.setCACert(ca_cert);
-    // #endif
 
     _mqtt_client.setClient(_wifi_client);
     _mqtt_client.setServer(mqtt_host, mqtt_port);
