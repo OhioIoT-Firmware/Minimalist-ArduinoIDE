@@ -28,7 +28,7 @@ void loop()  {
 1. Download this repo as a ZIP (green **Code** button -> Download ZIP).
 2. Arduino IDE: **Sketch -> Include Library -> Add .ZIP Library**, choose the ZIP.
 3. Open **File -> Examples -> OhioIoT-Minimalist -> Basic**.
-4. Fill in the four WiFi/MQTT values at the top of the sketch, then Upload.
+4. Fill in the four WiFi/MQTT values at the top of the sketch, then Upload.  If connecting to the OhioIoT MQTT broker, your MQTT username and password can be found in the Settings page of the app.
 
 ## What's Included
 
