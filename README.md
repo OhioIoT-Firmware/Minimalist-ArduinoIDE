@@ -46,6 +46,9 @@ to change how the framework behaves. Nothing here is a black box.
 
 Feedback is welcome.
 
+
+*Find video tutoriols on making IoT systems at the YouTube channel (https://youtube.com/@ohioiot).*
+
 *OhioIoT is an IoT platform designed for small-scale IoT projects (https://ohioiot.com).*
 
-*Find several platlists of video tutorials at the YouTube channel (https://youtube.com/@ohioiot).*
+
