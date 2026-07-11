@@ -45,3 +45,5 @@ readable source. Open it any time to see how the pieces fit together, or tweak i
 to change how the framework behaves. Nothing here is a black box.
 
 Feedback is welcome.
+
+*OhioIoT is an IoT platform designed for small-scale IoT projects (https://www.ohioiot.com).*
