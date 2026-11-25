@@ -2,7 +2,10 @@
 
 #pragma once
 
-#include <stdint.h> 
+#include <stdint.h>
+
+// tier headers the sketch reaches through this file
+#include "mqtt/mqtt.h"
 
 
 class Controller {
